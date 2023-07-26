@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat-hossain-niloy&label=Profile%20views&color=0e75b6&style=flat" alt="sifat-hossain-niloy" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Typescript,Django**
+- 🌱 I’m currently learning **ReactJS, NextJS,Django**
 
 - 📫 How to reach me **sifatb910@gmail.com**
 
