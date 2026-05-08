@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat-hossain-niloy&label=Profile%20views&color=0e75b6&style=flat" alt="sifat-hossain-niloy" /> </p>
 
-- 💼 Currently working as **Associate Software Engineer at Therap Services LLC**
+- 💼 Currently working as a **Software Engineer at Therap Services LLC**
 
 - 🌱 I'm currently learning **Docker, Go**
 
-- 🔭 Working with **Spring MVC, Spring Boot, Hibernate** in production environments
+- 🔭 Working with **Spring MVC, Spring Boot, Hibernate, ReactJS** in production environments
 
 - 📫 How to reach me **sifatb910@gmail.com**
 
